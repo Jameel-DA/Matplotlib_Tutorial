@@ -37,17 +37,20 @@ Matplotlib Advanced (Matplotlib_Advanced.ipynb) – Advanced visualization techn
 ✔ Visualizing runs, boundaries, and trends using Matplotlib
 
 Install required libraries:
-bash
-Copy
-Edit
+
 pip install pandas matplotlib numpy
+
 Open Jupyter Notebook:
+
 bash
 Copy
 Edit
+
 jupyter notebook
 Explore the datasets and notebooks.
+
 📌 Future Enhancements
+
 Integration with interactive visualization tools (e.g., Plotly, Seaborn).
 Machine learning models to predict player performance.
 More in-depth statistical analysis.
